@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) ,
+    url("https://geriatricnursing.org/wp-content/uploads/2016/03/UPenn.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: right;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.white-line {
+    height: 2px;    
+    background-color: white;
+}
+
+body {
+    position: relative;
+  }
+
+.carousel-item img {
+    height: 50vh;
+}
+
+h1 {
+    margin-bottom: 24px;
+}
+
+h5 {
+  margin-bottom: 24px;  
+}
+
+.round-img {
+    border-radius: 50px;
+}
+
+.card img {
+    height: 35%;
+    object-fit: cover;
+}
+
+.contact-content {
+    text-align: center;
+    padding: 36px;
+}
